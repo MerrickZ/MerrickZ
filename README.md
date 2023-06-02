@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MerrickZ
-- 👀 I’m interested in C++/Web, gaming etc.
-- 🌱 I’m currently doing leetcode
+- 👋 Hi, I’m @MerrickZ , an indie developer
+- 👀 I’m interested in C++/Web, etc.
 - 📫 anphorea@gmail.com <- mailto this
 
 <!---
